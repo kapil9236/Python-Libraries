@@ -24,4 +24,3 @@ sd
 DATA=[[1,2,3,],[4,5,6]]
 snd= pd.Series(DATA)
 snd
-
